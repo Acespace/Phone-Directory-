@@ -3,7 +3,10 @@ package main.java;
 import java.io.*;
 import java.util.Properties;
 
-//variable
+/*Alston Clark
+ *Assignement 3 
+ *Large Scale Programing
+ */
 public class PhoneDirectory {
 	
 /*The variable function returns the path to properties file. For use in the subsequent functions.
